@@ -1,6 +1,8 @@
 CS 5356: Building Startup Systems (Fall 2017)
 ===============================================
 
+Cameron Westbury
+
 ![Cornell Tech](images/CT_logo1.png)
 
 Essentials
